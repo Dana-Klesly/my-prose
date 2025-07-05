@@ -38,12 +38,12 @@ individual is representing the project.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported
-to the community leaders responsible for enforcement at [YOUR EMAIL HERE].
+to the community leaders responsible for enforcement at [dndonklesy@gmail.com].
 All complaints will be reviewed and investigated promptly and fairly.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+This Code of Conduct is adapted from the [Dana KLsely]
 version 2.1, available at
 https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
 
