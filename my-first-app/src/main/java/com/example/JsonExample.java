@@ -1,3 +1,8 @@
+/*
+ * Copyright (c) 2025 Dana-Klesly
+ * SPDX-License-Identifier: MIT
+ */
+
 package com.example;
 
 import com.google.gson.Gson;
