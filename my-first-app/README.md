@@ -7,4 +7,4 @@ This project is an example open source project for practicing open source projec
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/my-prose.git
+   git clone https://github.com/Dana-Klesly/my-prose.git
